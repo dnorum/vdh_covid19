@@ -1,0 +1,16 @@
+05,Cases
+04,Cases_By-Confirmation
+05,EventDate
+03,Cases_By-Age-Group
+06,Cases_By-Race-Ethnicity
+03,Cases_By-Sex
+04,Cases_By-District-Death-Hospitalization
+05,KeyMeasures-Hospitals
+05,ZIPCode
+05,Outbreaks
+05,Outbreaks_by-Date
+07,LTCF-Outbreaks
+05,Tests_by-LabReportDate
+05,MIS-C
+07,CLI_By-HealthRegion
+07,CLI_By-HealthDistrict
